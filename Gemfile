@@ -15,7 +15,7 @@ group :development do
 
   # documentation
   gem "hoe-markdown", "= 1.4.0"
-  gem "rdoc", "= 6.4.0"
+  gem "rdoc", "6.5.0"
 
   # parser generator
   gem "rexical", "= 1.0.7"
